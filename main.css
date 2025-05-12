@@ -142,17 +142,18 @@ body {
   overflow: hidden;
 }
 .v7_21 {
-  width: 201px;
-  height: 201px;
+  width: 260px;
+  height: 260px;
   background: url("v7_21.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 259px;
-  left: 574px;
+  top: 300px;
+  left: 374px;
   overflow: hidden;
+  transform: rotate(-5deg);
 }
 .v7_22 {
   width: 624px;
