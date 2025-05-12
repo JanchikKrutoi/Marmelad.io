@@ -128,15 +128,15 @@ body {
   overflow: hidden;
 }
 .v7_20 {
-  width: 348px;
-  height: 361px;
+  width: 448px;
+  height: 461px;
   background: url("v7_20.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 400px;
+  top: 290px;
   left: 34px;
   transform: rotate(-5deg);
   overflow: hidden;
