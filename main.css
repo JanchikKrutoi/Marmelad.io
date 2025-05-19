@@ -181,7 +181,15 @@ body {
   border-bottom-left-radius: 25px;
   border-bottom-right-radius: 25px;
   overflow: hidden;
+  cursor: pointer;              /* Курсор в виде руки */
+  transition: background-color 0.3s ease; /* Плавное изменение цвета */
 }
+
+.v7_23:hover {
+  background-color:#FFC953;
+
+}
+
 .v7_24 {
   width: 312px;
   color: rgba(0,0,0,1);
