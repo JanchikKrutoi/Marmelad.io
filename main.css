@@ -183,6 +183,11 @@ body {
   overflow: hidden;
   cursor: pointer;              /* Курсор в виде руки */
   transition: background-color 0.3s ease; /* Плавное изменение цвета */
+  font-family: Itim;
+  font-weight: Regular;
+  font-size: 64px;
+  opacity: 1;
+  text-align: center;
 }
 
 .v7_23:hover {
@@ -190,7 +195,7 @@ body {
 
 }
 
-.v7_24 {
+/*.v7_24 {
   width: 312px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -202,6 +207,7 @@ body {
   opacity: 1;
   text-align: center;
 }
+  */
 .v9_2 {
   width: 125px;
   height: 125px;
