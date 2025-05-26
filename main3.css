@@ -15,7 +15,7 @@ body {
   overflow: hidden;
 }
 .v11_3 {
-  width: 100%;
+  width: 1240px;
   height: 155px;
   background: rgba(255,200,83,1);
   opacity: 1;
@@ -31,7 +31,7 @@ body {
 .v11_4 {
   width: 125px;
   height: 125px;
-  background: url("../images/v11_4.png");
+  background: url("v3_8.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -104,7 +104,7 @@ body {
 .v11_10 {
   width: 92px;
   height: 92px;
-  background: url("../images/v11_10.png");
+  background: url("v7_19.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -115,7 +115,7 @@ body {
   overflow: hidden;
 }
 .v11_12 {
-  width: 267px;
+  width: 280px;
   color: rgba(0,0,0,1);
   position: absolute;
   top: 213px;
@@ -457,6 +457,7 @@ body {
 }
 .v11_41 {
   width: 208px;
+  height: 80px;
   color: rgba(217,217,217,1);
   position: absolute;
   top: 0px;
@@ -496,6 +497,7 @@ body {
 }
 .v11_44 {
   width: 208px;
+  height: 80px;
   color: rgba(0,0,0,1);
   position: absolute;
   top: 0px;
@@ -629,7 +631,7 @@ body {
 .v14_60 {
   width: 213px;
   height: 250px;
-  background: url("../images/v14_60.png");
+  background: url("v14_60.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
