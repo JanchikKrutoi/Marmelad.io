@@ -5,7 +5,7 @@ body {
   font-size: 14px;
 }
 .v11_2 {
-  width: 100%;
+  width: 1440px;
   height: 1024px;
   background: rgba(255,255,255,1);
   opacity: 1;
@@ -657,7 +657,7 @@ body {
   width: 213px;
   color: rgba(0,0,0,1);
   position: absolute;
-  top: 937px;
+  top: 950px;
   left: 163px;
   font-family: Itim;
   font-weight: Regular;
